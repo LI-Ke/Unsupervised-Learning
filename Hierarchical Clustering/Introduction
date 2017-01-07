@@ -1,1 +1,2 @@
-Hierarchical clustering groups data over a variety of scales by creating a cluster tree or dendrogram. The tree is not a single set of clusters, but rather a multilevel hierarchy, where clusters at one level are joined as clusters at the next level. 
+Hierarchical clustering groups data over a variety of scales by creating a cluster tree or dendrogram. The tree is not a single
+set of clusters, but rather a multilevel hierarchy, where clusters at one level are joined as clusters at the next level. 
